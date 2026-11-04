@@ -1,8 +1,8 @@
-# Compiled class file
-*.class
+# Maven build output
+/target/
 
-# Log file
-*.log
+# Local prototype data and logs
+/data/
 
 # BlueJ files
 *.ctxt
@@ -25,3 +25,4 @@ replay_pid*
 
 # Maven build output
 target/
+
