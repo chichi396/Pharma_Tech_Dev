@@ -72,3 +72,12 @@ Batch records are saved to `data/batches.json` and remain after the app restarts
 - `StockService` contains the inventory, expiry, and stock-check rules. It uses Java lists and maps to handle batches and requested quantities (**collections**).
 
 The in-memory repository can be selected for a temporary run with `mvn exec:java -Dexec.args=memory`; it will not preserve data after stopping.
+## Group Members
+
+| No. | Full Name           | Student Number |
+|-----|---------------------|----------------|
+| 1   | Nkole Chabala       | 2410285        |
+| 2   | Chilawa Musonda     | 2410308        |
+| 3   | Lucy Mbewe          | 2410195        |
+| 4   | Christopher Kabamba | 2410404        |
+| 5   | Tiwone Thawe        | 2300006        |
